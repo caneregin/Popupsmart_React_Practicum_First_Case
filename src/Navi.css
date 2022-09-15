@@ -1,0 +1,44 @@
+.navi{
+    height: 6rem;
+    width: 100%;
+    background-color: rgb(71, 63, 63);
+}
+.navi-user{
+    height: 6rem;
+    width: 35%;
+    margin-left: 65%;
+    font-size: 2rem;
+    padding-top: 1rem;
+    font-weight: bold;
+    font-family: cursive;
+    color: rgb(218, 218, 218);
+}
+.button-save {
+    margin-top: -0.5rem;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: white;
+    background: linear-gradient(0deg, rgb(72 72 72) 0%, rgb(78 78 78) 100%);
+    border: none;
+    box-shadow: 0 0.7em 1.5em -0.5em #2e2e2e98;
+    letter-spacing: 0.05em;
+    border-radius: 20em;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-save:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #c7c7c798;
+  }
+  
+  .button-save:active {
+    box-shadow: 0 0.3em 1em -0.5em #c2c2c298;
+  }
