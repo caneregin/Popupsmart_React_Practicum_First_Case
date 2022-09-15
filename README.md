@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Popupsmart React Practicum First Case
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Yayınlandı: https://6322f87c5e9dd3133a70a33c--regal-flan-064c8e.netlify.app/
 
-## Available Scripts
+## Açılış ekranı
 
-In the project directory, you can run:
+![first_case](https://user-images.githubusercontent.com/36435160/190378864-58dc2b92-199e-472c-b8b8-70ffd88001a5.png)
 
-### `npm start`
+## Yeni To Do Ekle butonuna tıklandığında
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![first_case0](https://user-images.githubusercontent.com/36435160/190379016-173f4c1a-327f-4786-8f2a-0255dbd1e5c5.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Güncelle butonuna tıklandığında
 
-### `npm test`
+![first_case01](https://user-images.githubusercontent.com/36435160/190379198-f32aa02e-5396-4fdf-80d2-50b3027688ff.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Kullanıcı giriş yaptığında
 
-### `npm run build`
+![first_case02](https://user-images.githubusercontent.com/36435160/190379342-89253e12-0f77-4d5b-9d12-a40a932b5d59.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Kod ve detaylı açıklamaları
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![first_case1](https://user-images.githubusercontent.com/36435160/190379384-0ca66170-a0c3-40ad-8b8e-096cc3df3e59.png)
+![first_case2](https://user-images.githubusercontent.com/36435160/190379391-6ed3cd35-f608-4c1e-a937-4980c77cc8cb.png)
+![first_case3](https://user-images.githubusercontent.com/36435160/190379400-4e346421-5ea2-428d-965c-c69d22c5fa36.png)
+![first_case4](https://user-images.githubusercontent.com/36435160/190379407-7038f77f-4244-4a44-896c-cef93c2e9d3b.png)
+![first_case5](https://user-images.githubusercontent.com/36435160/190379412-aac4860a-f071-409a-90ec-a24d1c48b51c.png)
+![first_case6](https://user-images.githubusercontent.com/36435160/190379418-252f55c5-f133-4886-b50d-957d70c9b001.png)
+![first_case7](https://user-images.githubusercontent.com/36435160/190379424-12737ee9-28a6-40ed-b496-6573d334c7de.png)
+![first_case8](https://user-images.githubusercontent.com/36435160/190379434-a46fc78d-1091-491e-9b11-7c7b2e4a0eda.png)
